@@ -1,0 +1,32 @@
+.image{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 30px;
+
+}
+
+.image1 p{
+    color: red;
+    justify-content: center;
+    float: calc(center);
+}
+.image2 p{
+    color: #000;
+    float: right;
+    margin-top: 70px;
+}
+
+section{
+    text-align: center;
+    margin-top: 300px;
+}
+
+strong{
+    font-size: 20px;
+}
+
+h3{
+    text-align: center;
+}
